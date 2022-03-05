@@ -1,0 +1,5 @@
+class array for
+{
+	public static void main(string args[])
+	{}
+}
